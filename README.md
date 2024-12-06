@@ -1,4 +1,4 @@
-# Using-RBF-kernel-in-SVM-for-user-prediction-
+# Using-RBF-kernel-in-SVM-for-user-prediction
 ML project to demonstrate the use of RBF kernel in SVM
 
 This code implements a machine learning pipeline for user prediction using Support Vector Machine (SVM). Here's a step-by-step explanation of its key components:
